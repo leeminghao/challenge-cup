@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>splash.jpg</file>
+        <file>map/zoomout.png</file>
+        <file>map/zoomin.png</file>
+        <file>map/map.jpg</file>
+        <file>video/stop.png</file>
+        <file>video/start.png</file>
+        <file>capture/take.png</file>
+        <file>face.png</file>
+        <file>person/exit.png</file>
+        <file>map/map.png</file>
+        <file>config/temperature.png</file>
+        <file>person/del.png</file>
+        <file>person/modify.png</file>
+        <file>person/add.png</file>
+        <file>person/find.png</file>
+        <file>device/open_lamp.jpg</file>
+        <file>device/close_lamp.jpg</file>
+        <file>capture/del.png</file>
+        <file>device/open_fan.jpg</file>
+        <file>device/close_fan.jpg</file>
+        <file>config/hum.jpg</file>
+        <file>config/smoke.jpg</file>
+        <file>device/noise.jpg</file>
+        <file>device/pyroelectric.jpg</file>
+        <file>device/infrared.jpg</file>
+        <file>video/window.jpg</file>
+    </qresource>
+</RCC>
